@@ -6,4 +6,5 @@ Stuff that is like 1-2 files.
 
 Take a look. I'm always looking for ways to better implement my experiments so constructive criticism is much appreciated.
 
-## Future Ideas: Slack integrated chatbot
+## Future Ideas: 
+- Slack integrated chatbot
